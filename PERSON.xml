@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person SYSTEM "PERSON.dtd">
+<person>
+	<employee employeed="yes">
+		<name>BHARATHI</name>
+		<age>22</age>
+		<salary>34000</salary>
+	</employee>
+	
+	<employee employeed="no">
+		<name>SRAVANI</name>
+		<age>19</age>
+		<salary>20000</salary>
+	</employee>
+	
+	<employee employeed="yes">
+		<name>VENKATESH</name>
+		<age>26</age>
+		<salary>300000</salary>
+	</employee>
+	
+	
+</person>
